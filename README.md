@@ -4,15 +4,13 @@
 
 Originaly from Vladivostok, Russia Ну и о себе что нибудь - два прекрасных котика. Люблю видеоигры, путешествия и хайкинг
 
-<h2>My Tech Stack</h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1596061862/9845/meow_heart.png?1596061862" width="30"/> My Tech Stack</h2>
 
-<!-- <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff"/> -->
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff"/>
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
+<img alt="React" src="https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react"/>
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 <br>
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -50,7 +48,7 @@ Originaly from Vladivostok, Russia Ну и о себе что нибудь - д�
 
 </details>
 
-<h2>Some Cool projects I made (My Projects)</h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1596061283/9840/meow_fiesta.png?1596061283" width="30"/> Some Cool projects I made (My Projects)</h2>
 
 <table>
   <tbody>
@@ -79,15 +77,17 @@ Originaly from Vladivostok, Russia Ну и о себе что нибудь - д�
   </tbody>
 </table>
 
-<h2> 🔭 I’m currently working on </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/> I’m currently working on </h2>
 
 [Weather app](https://github.com/ALapina/Weather-app-Challenge) challenge - React, Styled Components, Api, user stories and mentoring from experienced teach lead!
 
-<h2> 📫 Where to find me </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613453435/13229/meow_box.png?1613453435" width="30"/> Where to find me </h2>
+
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1613287815/12831/meow_lurk.png?1613287815" width="30"/> -->
 
 LinkedIn, GitHub, Codepen
 
-<h2> 💻 Check Out My Repos ⬇️ </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" width="30"/> Check Out My Repos ⬇️ </h2>
 
 <!-- ## Things I code with 💼
 
