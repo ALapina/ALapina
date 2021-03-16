@@ -26,7 +26,7 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 <br>
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1613187874/12657/meow_puffy_giggle.png?1613187874" width="20"/> I'm curretnly learning</h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1613187874/12657/meow_puffy_giggle.png?1613187874" width="20"/> I'm currently learning</h3>
 
 ![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white)
@@ -62,16 +62,17 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
       <td><a href="https://github.com/ALapina/FAQ-Accordion-Card-React"><img alt="React" src="https://img.shields.io/badge/-React Version-%23282C34?style=flat-square&logo=react"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALapina/Testimonials-Slider_Frontend-Mentor"><b>Testimonials Slider</b></a></td>
+      <td><b>Testimonials Slider</b></td>
       <td><a href="https://github.com/ALapina/Testimonials-Slider_Frontend-Mentor"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td>
+      <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALapina/Fylo-Data-Storage-Component__Frontend-Mentor"><b>Component with range slider</b></a></td>
-      <td><a href="https://github.com/ALapina/Fylo-Data-Storage-Component__Frontend-Mentor"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td>
+      <td><b>Component with range slider</b></td>
+      <td><a href="https://github.com/ALapina/Fylo-Data-Storage-Component__Frontend-Mentor"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td><td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALapina/Flowers"><b>Flowers landing page with CSS Grid and open/close menu only with CSS checkbox no JS</b></a></td>
-      <td><a href="https://github.com/ALapina/Flowers"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3 Version-%231572B6?style=flat-square&logo=css3"/></a></td>
+      <td><b>Flowers landing page with CSS Grid and open/close menu only with CSS checkbox no JS</b></td>
+      <td><a href="https://github.com/ALapina/Flowers"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3 Version-%231572B6?style=flat-square&logo=css3"/></a></td><td></td>
     </tr>
   </tbody>
 </table>
@@ -80,7 +81,6 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 
 [**Weather app**](https://github.com/ALapina/Weather-app-Challenge) challenge - React, Styled Components, Api, user stories and mentoring from experienced Tech lead!
 
-<!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613453435/13229/meow_box.png?1613453435" width="30"/> Where to find me </h2> -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613366889/12964/meow_trash.png?1613366889" width="30"/> Where to find me </h2>
 
 <a href="https://github.com/ALapina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
