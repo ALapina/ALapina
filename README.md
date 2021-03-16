@@ -11,31 +11,32 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 <br>
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![CSS Tailwind](https://img.shields.io/badge/-Tailwind-%231a202c?style=flat&logo=tailwind-css)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white)
-<br>
-
-<!-- ![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white) -->
-
-![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-0A3653?style=flat)
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-050938?style=flat&logo=Figma&logoColor=rainbow)
+![TestRail](https://img.shields.io/badge/TestRail-0A3653?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
+<br>
+
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1613187874/12657/meow_puffy_giggle.png?1613187874" width="20"/> I'm curretnly learning</h3>
+
+![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 <!-- ![Confluence](https://img.shields.io/badge/Confluence-F7F7F7?style=flat&logo=Confluence&logoColor=2580F7) -->
 <!-- ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) -->
 
-<br>
+<!-- <br> -->
 
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
@@ -87,3 +88,5 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 <a href="https://codepen.io/Lapina" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-%2312100E.svg?&style=for-the-badge&logo=CodePen&logoColor=white" /></a>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" width="30"/> Check Out My Repos ⬇️ </h2>
+
+<!-- https://awesomegithubprofile.tech/ -->
