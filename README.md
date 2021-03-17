@@ -5,7 +5,7 @@ I'm Anna, Frontend developer from <img src="https://image.flaticon.com/icons/svg
 
 I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> Vladivostok, Russia. I love traveling, hiking, video games, and my two wonderful cats Martini and Pirate ❤️
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1596061862/9845/meow_heart.png?1596061862" width="30"/> My Tech Stack</h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613286707/12818/meow_business.png?1613286707" width="30"/> My Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
@@ -18,7 +18,6 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-050938?style=flat&logo=Figma&logoColor=rainbow)
-![TestRail](https://img.shields.io/badge/TestRail-0A3653?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -35,6 +34,7 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 
 <!-- ![Confluence](https://img.shields.io/badge/Confluence-F7F7F7?style=flat&logo=Confluence&logoColor=2580F7) -->
 <!-- ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) -->
+<!-- ![TestRail](https://img.shields.io/badge/TestRail-0A3653?style=flat) -->
 
 <!-- <br> -->
 
@@ -87,6 +87,7 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 <a href="https://www.linkedin.com/in/lapina-anna" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://codepen.io/Lapina" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-%2312100E.svg?&style=for-the-badge&logo=CodePen&logoColor=white" /></a>
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" width="30"/> Check Out My Repos ⬇️ </h2>
+<!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" width="30"/> Check Out My Repos ⬇️ </h2> -->
+<!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613630279/13492/meow_cheer.png?1613630279" width="30"/> Check Out My Repos ⬇️ </h2> -->
 
 <!-- https://awesomegithubprofile.tech/ -->
