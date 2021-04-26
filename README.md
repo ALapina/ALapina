@@ -10,6 +10,7 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%232F74C0?style=flat&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)
 <br>
 
