@@ -78,9 +78,9 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
   </tbody>
 </table>
 
-<!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/> I’m currently working on </h2> -->
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/> I’m currently working on </h2>
 
-<!-- [**Weather app**](https://github.com/ALapina/Weather-app-Challenge) challenge - React, Styled Components, Api, user stories and mentoring from experienced Tech lead! -->
+[**Weather app**](https://github.com/ALapina/Weather-app-Challenge) challenge - React, Styled Components, Api, user stories and mentoring from experienced Tech lead!
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613366889/12964/meow_trash.png?1613366889" width="30"/> Where to find me </h2>
 
