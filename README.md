@@ -16,6 +16,7 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![CSS Tailwind](https://img.shields.io/badge/-Tailwind-%231a202c?style=flat&logo=tailwind-css)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white)
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-050938?style=flat&logo=Figma&logoColor=rainbow)
@@ -24,17 +25,17 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 <br>
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1613187874/12657/meow_puffy_giggle.png?1613187874" width="20"/> I'm currently learning</h3>
 
 ![Jest](https://img.shields.io/badge/Jest-97747E?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-24262E?style=flat&logo=Cypress&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 <!-- ![Confluence](https://img.shields.io/badge/Confluence-F7F7F7?style=flat&logo=Confluence&logoColor=2580F7) -->
-<!-- ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white) -->
+
 <!-- ![TestRail](https://img.shields.io/badge/TestRail-0A3653?style=flat) -->
 
 <!-- <br> -->
@@ -53,27 +54,24 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 <table>
   <tbody>
     <tr>
-      <td><b>Job listings with filtering</b></td>
-      <td><a href="https://github.com/ALapina/Job-listings-with-filtering-JavaScript"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td>
-      <td><a href="https://github.com/ALapina/Job-listings-with-filtering-React"><img alt="React" src="https://img.shields.io/badge/-React Version-%23282C34?style=flat-square&logo=react"/></a></td>
-    </tr>
-	  <tr>
-      <td><b>FAQ Accordion Card</b></td>
-      <td><a href="https://github.com/ALapina/FAQ-Accordion-Card---JavaScript"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td>
-      <td><a href="https://github.com/ALapina/FAQ-Accordion-Card-React"><img alt="React" src="https://img.shields.io/badge/-React Version-%23282C34?style=flat-square&logo=react"/></a></td>
+      <td><a href="https://github.com/ALapina/fetch-them-all"><b>Fetch Them All</b></a></td>
+      <td>TypeScript, JavaScript, React, SCSS, React Router, Formik with Yup, react-i18next, REST API, React Testing Library (Jest)</td>
     </tr>
     <tr>
-      <td><b>Testimonials Slider</b></td>
-      <td><a href="https://github.com/ALapina/Testimonials-Slider_Frontend-Mentor"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td>
-      <td></td>
+      <td><a href="https://github.com/ALapina/Job-listings-with-filtering-React"><b>Job listings with filtering</b></a></td>
+      <td><a href="https://github.com/ALapina/Job-listings-with-filtering-JavaScript">JavaScript</a>, React, CSS Tailwind</td>
     </tr>
     <tr>
-      <td><b>Component with range slider</b></td>
-      <td><a href="https://github.com/ALapina/Fylo-Data-Storage-Component__Frontend-Mentor"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td><td></td>
+      <td><a href="https://github.com/ALapina/FAQ-Accordion-Card-React"><b>FAQ Accordion Card</b></a></td>
+      <td><a href="https://github.com/ALapina/FAQ-Accordion-Card---JavaScript">JavaScript</a>, React, SCSS, e2e testing with Cypress</td>
     </tr>
     <tr>
-      <td><b>Flowers landing page with CSS Grid and open/close menu only with CSS checkbox no JS</b></td>
-      <td><a href="https://github.com/ALapina/Flowers"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3 Version-%231572B6?style=flat-square&logo=css3"/></a></td><td></td>
+      <td><a href="https://github.com/ALapina/Flowers"><b>Flowers shop landing page</b></a></td>
+      <td>CSS Grid, SCSS, open/close menu only with CSS checkbox</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ALapina/Data-warehouse"><b>Data Warehouse landing page</b></a></td>
+      <td>CSS Flexbox, Slick Slider (jQuery)</td>
     </tr>
   </tbody>
 </table>
@@ -92,3 +90,9 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 <!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613630279/13492/meow_cheer.png?1613630279" width="30"/> Check Out My Repos ⬇️ </h2> -->
 
 <!-- https://awesomegithubprofile.tech/ -->
+
+<!-- <tr>
+      <td><b>Job listings with filtering</b></td>
+      <td><a href="https://github.com/ALapina/Job-listings-with-filtering-JavaScript"><img alt="JavaScrip" src="https://img.shields.io/badge/-JS Version-%23F7DF1C?style=flat&logo=javascript&logoColor=000000"/></a></td>
+      <td><a href="https://github.com/ALapina/Job-listings-with-filtering-React"><img alt="React" src="https://img.shields.io/badge/-React Version-%23282C34?style=flat-square&logo=react"/></a></td>
+    </tr> -->
