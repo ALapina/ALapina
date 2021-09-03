@@ -84,7 +84,7 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 
 <a href="https://github.com/ALapina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lapina-anna" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://codepen.io/Lapina" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-%2312100E.svg?&style=for-the-badge&logo=CodePen&logoColor=white" /></a>
+<!-- <a href="https://codepen.io/Lapina" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-%2312100E.svg?&style=for-the-badge&logo=CodePen&logoColor=white" /></a> -->
 
 <!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613773113/13688/meow_dance.gif?1613773113" width="30"/> Check Out My Repos ⬇️ </h2> -->
 <!-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613630279/13492/meow_cheer.png?1613630279" width="30"/> Check Out My Repos ⬇️ </h2> -->
