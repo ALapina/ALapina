@@ -20,12 +20,12 @@ I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.sv
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-050938?style=flat&logo=Figma&logoColor=rainbow)
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) -->
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-<!-- ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) -->
-<!-- ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7) -->
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white) -->
+<!-- ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) -->
+<!-- ![Jira](https://img.shields.io/badge/Jira-F7F7F7?style=flat&logo=Jira-Software&logoColor=2580F7) -->
 <br>
 
 <!-- <h3> <img src="https://emojis.slackmojis.com/emojis/images/1613187874/12657/meow_puffy_giggle.png?1613187874" width="20"/> I'm currently learning</h3>
