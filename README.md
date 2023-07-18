@@ -3,8 +3,6 @@
 Welcome to my page!</br>
 I'm Anna, Frontend developer from <img src="https://image.flaticon.com/icons/svg/197/197379.svg" width="13"/> **Tallinn, Estonia**.
 
-I'm originally from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> Vladivostok, Russia. I love traveling, hiking, video games, and my two wonderful cats Martini and Pirate ❤️
-
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1613286707/12818/meow_business.png?1613286707" width="30"/> My Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
